@@ -6,3 +6,5 @@ The Queer Ecologies Research Cluster meets every other week to investigate how s
 [{{ post.title }}]({{post.url}})
 {{ post.content }}
 
+# People 
+Coming soon!
