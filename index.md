@@ -8,3 +8,23 @@ The Queer Ecologies Research Cluster meets every other week to investigate how s
 
 # People 
 Coming soon!
+
+# Readings 
+## 05/2018 
+- Roy, Deboleena. "Neuroscience and Feminist Theory: A New Directions Essay." Signs: Journal of Women in Culture and Society 41.3 (2016): 531-552. 
+
+## 2/16/17 
+- Alaimo, Stacy. "Eluding capture: The science, culture, and pleasure of 'queer' animals." Queer ecologies: Sex, nature, politics, desire (2010): 51-72. 
+
+## 11/29/16 
+- Wynter, Sylvia, Mercedes Durán-Cogan, and Antonio Gómez-Moriana. "Towards the Sociogenic Principle: Fanon, The Puzzle of Conscious Experience , of 'Identity' and What it's Like to be 'Black'." National Identity and Socio Political Change: Latin America Between Marginalisation and Integration (1999) . 
+- Fanon, Frantz. "1 The Fact of Blackness." Postcolonial Studies: An Anthology (2015): 15. 
+
+## 11/17/16 
+- Luciano, Dana, and Mel Y. Chen. "Introduction: Has the Queer Ever Been Human?." GLQ: A Journal of Lesbian and Gay Studies 21.2 (2015): iv-207. Dossier, The orizing Queer Inhumaninms 
+-Muñoz, José Esteban. "Theorizing Queer Inhumanisms: The Sense of Brownness." GLQ: a journal of lesbian and gay studies 21.2 (2015): 209-210. 
+- Ahuja, Neel. "Intimate Atmospheres Queer Theory in a Time of Extinctions." GLQ: A Journal of Lesbian and Gay Studies 21.2-3 (2015): 365-385. 
+
+## 10/27/16 
+- McWhorter, Ladelle. "Enemy of the Species." Queer Ecologies: Sex, Nature, Politics, Desire (2010): 73-101. 
+
