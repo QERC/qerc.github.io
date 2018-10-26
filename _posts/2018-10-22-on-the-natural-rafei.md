@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "Fellowship Conference 2018"
+tags: events
+author: Paloma Medina
 ---
 
 Our very own Raed Rafei will be presenting a talk on his work "On the Natural". 
