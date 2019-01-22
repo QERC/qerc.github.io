@@ -23,4 +23,4 @@ It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing 
 Trailer: "https://www.youtube.com/watch?v=ALSwWTb88ZU
 
 
-![](/images/film-fest-qerc-final.png)
+![](/images/film-fest-qerc-final.jpg)
