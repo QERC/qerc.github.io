@@ -6,8 +6,8 @@ author: Paloma Medina
 ---
 
 We are delighted to start the Queer Film Series this Thursday (01/24) with an ingeniously unique movie: TANGERINE.  
-
-
+  
+  
 This screening will take place at the Graduate Student Commons at 7 PM. Snacks and beverages will be served.  
 
 
