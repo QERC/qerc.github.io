@@ -10,7 +10,6 @@ The Queer Ecologies Research Cluster meets every other week to investigate how s
 
 <img src="images/dennis_browe.png" width="100" height="100>
 
-![alt-text-1](images/dennis_browe.png s=200 "dennis") ![alt-text-2](images/dsantos.png "dorothy") ![alt-text-3](images/elana_queer_ecology.png "elana")
 
 # Meetings
 
