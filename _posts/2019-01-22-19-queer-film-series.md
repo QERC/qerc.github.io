@@ -15,6 +15,6 @@ This event is hosted by the Queer Ecology Research Cluster with support from the
 <br>
 *It's Christmas Eve in Tinseltown and Sin-Dee is back on the block. Upon hearing that her pimp boyfriend hasn't been faithful during the 28 days she was locked up, the sex worker and her best friend, Alexandra, embark on a mission to get to the bottom of the scandalous rumor. Their rip-roaring odyssey leads them through various subcultures of Los Angeles.*  
 <br>
-Trailer: "https://www.youtube.com/watch?v=ALSwWTb88ZU   
+Trailer: https://www.youtube.com/watch?v=ALSwWTb88ZU   
 <br>
 ![](/images/film-fest-qerc-final.jpg)
