@@ -4,7 +4,7 @@ The Queer Ecologies Research Cluster meets every other week to investigate how s
 
 <br> 
 
-# Upcoming Events
+# Events
 {% assign post = site.posts.first %}
 [{{ post.title }}]({{post.url}})
 {{ post.content }}
