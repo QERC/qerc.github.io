@@ -5,7 +5,6 @@ tags: events
 author: Paloma Medina
 ---
 
-Inspired by the discussions of queer ecologies, the queer ecology of the clownfish emerged. 
 Clownfish are sequential hermaphrodites which mean they can change from male to female during their lifetime. 
 This biological phenomenon was left out of the story of Finding Nemo, and so we decided to create the story Looking for Marla to help correct and share clownfish biology. 
 <br/>
