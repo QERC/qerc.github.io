@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fellowship Conference 2018"
-tags: events
+tags: projects
 author: Paloma Medina
 ---
 
