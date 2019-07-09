@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Looking for Marla"
-tags: events
+tags: projects
 author: Paloma Medina
 ---
 
