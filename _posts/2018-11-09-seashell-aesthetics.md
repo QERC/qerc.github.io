@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Seashell Aesthetics"
-tags: events
+tags: projects
 author: Paloma Medina
 ---
 
