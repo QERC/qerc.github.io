@@ -34,9 +34,9 @@ This biological phenomenon was left out of the story of Finding Nemo, and so we 
 
 <br/>
 <br/>
-Follow us on: 
-Instagram (@wheresmarla)
-Facebook (https://www.facebook.com/wheresmarla/)
+Follow us on: <br\>
+Instagram (@wheresmarla) <br/>
+Facebook (https://www.facebook.com/wheresmarla/) <br/>
 <br/>
 For inquiries, e-mail LookingForMarlaBook@gmail.com
 <br/>
