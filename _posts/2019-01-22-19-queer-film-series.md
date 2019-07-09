@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Queer Film Series"
-tags: events
+tags: projects
 author: Paloma Medina
 ---
 
