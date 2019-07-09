@@ -9,7 +9,9 @@ Inspired by the discussions of queer ecologies, the queer ecology of the clownfi
 Clownfish are sequential hermaphrodites which mean they can change from male to female during their lifetime. 
 This biological phenomenon was left out of the story of Finding Nemo, and so we decided to create the story Looking for Marla to help correct and share clownfish biology. 
 <br/>
+<br/>
 Testimonials for Looking for Marla 
+<br/>
 <br/>
 "Looking for Marla takes you on an undersea discovery journey through the surprisingly diverse expressions of gender and sexual identity among marine creatures. I have taught sexuality education classes for ages ranging from kindergarten to senior high school, and this wonderfully imaginative book will be a precious addition to the curriculum. Little kids will marvel at the beautiful illustrations and older youths will appreciate the whimsical rhyming text. For all, the variety of parenting styles and gender expressions depicted in these pages are sure to expand their understanding of the many ways to be human. May they find their own inner Marla."
 <br/>
