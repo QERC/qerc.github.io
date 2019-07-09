@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Looking for Marla"
@@ -35,6 +34,10 @@ Testimonials for Looking for Marla
 - Roxanne Beltran, Ph.D. |  Postdoctoral Researcher, UC Santa Cruz | Children's Book Author
 
 
-More information on this event can be found [here](http://humanresourcesla.com/event/martabel-wasserman-seashell-aesthetics/)
-  
+Follow us on: 
+Instagram (@wheresmarla)
+Facebook (https://www.facebook.com/wheresmarla/)
+
+For inquiries, e-mail LookingForMarlaBook@gmail.com
+
 ![](/images/cover.PNG)
