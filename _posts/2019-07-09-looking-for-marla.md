@@ -17,17 +17,21 @@ This biological phenomenon was left out of the story of Finding Nemo, and so we 
 <br/>
 -  François Bar, Ph.D. | Our Whole Lives Sexuality Education facilitator | Professor of Communication, USC Annenberg Innovation La
 <br/>
+
 "Looking for Marla beautifully illustrates how art can help to communicate scientific information and break down social stereotypes. We at the Norris Center for Natural History are proud to have supported this creative and outstanding book."  
 <br/>
 - Karen Holl, Ph.D. | Professor of Environmental Studies, UC Santa Cruz | Faculty Director, Norris Center for Natural History.
 <br/>
+
 "Looking for Marla is joyful, beautiful and informative.  If you are curious about: gender identity, the ocean, its inhabitants or parenting then this is the book for you!  This is revelatory reading at its best."
 <br/>
 - Beth Rendeiro, M.Ed | Co-founder, More Than Sex Ed. | Trainer, Our Whole Lives, Lifespan Human Sexuality curricula |  Educator, UCLA Lab School
 <br/>
+
 "Looking for Marla speaks for the often overlooked and misunderstood ocean creatures. With gorgeous illustrations and unforgettable facts, this story will warm the hearts of those willing to undertake a new perspective on our underwater world."
 <br/>
 - Roxanne Beltran, Ph.D. |  Postdoctoral Researcher, UC Santa Cruz | Children's Book Author
+
 <br/>
 <br/>
 Follow us on: 
