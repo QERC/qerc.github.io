@@ -9,6 +9,9 @@ author: Paloma Medina
 
 Clownfish are sequential hermaphrodites which mean they can change from male to female during their lifetime. 
 This biological phenomenon was left out of the story of Finding Nemo, and so we decided to create the story Looking for Marla to help correct and share clownfish biology. 
+
+<!--more-->
+
 <br/>
 <br/>
 <h5>Testimonials for Looking for Marla </h5>

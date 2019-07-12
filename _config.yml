@@ -1,6 +1,7 @@
 theme: jekyll-theme-minimal
 
 title: UCSC QUEER ECOLOGIES RESEARCH CLUSTER
+excerpt_separator: <!--more-->
 
 plugins:
   - jekyll-seo-tag

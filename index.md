@@ -7,9 +7,10 @@ The Queer Ecologies Research Cluster meets every quarterly investigate how sexua
 # Events
 
 {% assign post = site.posts.first %}
-### [{{ post.title }}]({{ post.url }})
+### {{ post.title }}
 {{ post.excerpt }}
-<!-- https://jekyllrb.com/docs/posts/#post-excerpts -->
+
+[Read more...]({{ post.url }})
 
 ### Past Events
 <ul>
