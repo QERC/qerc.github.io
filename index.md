@@ -4,7 +4,7 @@ The Queer Ecologies Research Cluster meets every quarterly investigate how sexua
 
 <br> 
 
-# Events
+# Spotlight project
 
 {% assign post = site.posts.first %}
 ### {{ post.title }}
@@ -12,7 +12,7 @@ The Queer Ecologies Research Cluster meets every quarterly investigate how sexua
 
 [Read more...]({{ post.url }})
 
-### Past Events
+### Other projects
 <ul>
   {% for post in site.posts %}
     <li>
