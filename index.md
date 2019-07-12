@@ -27,6 +27,7 @@ The Queer Ecologies Research Cluster meets every quarterly investigate how sexua
 
 # People
 
+
 <img src="images/dennis_browe.png" height="200"> <img src="images/dsantos.jpg" height="200"> <img src="images/elana-horse.jpg" height="200"> <img src="images/martabel.jpg" height="200">  <img src="images/medina_cheeta_headshot.jpg" height="200"> <img src="images/raed_rafei.jpg" height="200">
 
 <br>
